@@ -16,7 +16,7 @@ You can:
 
 <img src="/assets/EmpTra_20.gif">
 
-[Video Link](https://drive.google.com/file/d/1kX7gjq9MfXJKr8o0AEjWRauG5npRO9aT/view?usp=sharing)
+[Video Link]Video Link:(https://drive.google.com/file/d/1kX7gjq9MfXJKr8o0AEjWRauG5npRO9aT/view?usp=sharing)
 
 
 ## Table of Contents
@@ -30,7 +30,7 @@ You can:
 
 ## Installation
 
-This is a blah blah blah.
+Download the zipped files from the git hub or clone it to your computer and then install the dependencies required. And finally run the index.js from command line interface using node.js and you can run the app.
 
 ## Usage
 
