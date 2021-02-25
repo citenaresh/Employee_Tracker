@@ -16,7 +16,7 @@ You can:
 
 <img src="/assets/EmpTra_20.gif">
 
-[Video Link]  Video Link:  (https://drive.google.com/file/d/1kX7gjq9MfXJKr8o0AEjWRauG5npRO9aT/view?usp=sharing)
+[Video Link] :(https://drive.google.com/file/d/1kX7gjq9MfXJKr8o0AEjWRauG5npRO9aT/view?usp=sharing)
 
 
 ## Table of Contents
